@@ -6,7 +6,6 @@ abstract class Orders{
 		System.out.println("This is show method");
 	}
 }
-
 class Demo extends Orders{
 	
 }
